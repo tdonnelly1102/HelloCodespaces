@@ -5,3 +5,4 @@ how to make a new repository
 2. Created a respository
 3. Created a codespace vm
 4. Modified the Readme file
+5. Work in the terminal
